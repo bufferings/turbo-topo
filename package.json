@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "turbo run test"
+  },
+  "devDependencies": {
+    "turbo": "latest"
+  },
+  "packageManager": "pnpm@7.15.0",
+  "name": "turbo-topo"
+}
